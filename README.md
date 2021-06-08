@@ -25,4 +25,6 @@
 - Software Development: Nepal Red Cross Society (in collaboration with KOICA Nepal)
 
 ### Contact/Link
-- [Email (dilip.paudyal@gmail.com)]
+- [LinkedIn](https://www.linkedin.com/in/dilip-paudyal/)
+- [Website](https://github.com/dilippaudyal/Dilip/edit/main/README.md)
+- [Whatsapp](https://github.com/dilippaudyal/Dilip/edit/main/README.md)
