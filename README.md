@@ -22,7 +22,7 @@
 
 ### Education
 
-- Bachelors of Science in Information Technology (Bsc.IT)
+- Bachelors of Science in Information Technology (Bsc.IT): 2015
 
 ### Volunteering
 
