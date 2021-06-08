@@ -8,7 +8,7 @@
 - Experience with third-party libraries and APIs.
 - Knowledge of Android UI design principles, patterns, and best practices.
 - Knowledge of Firebase Console and Google play console (App Release/Update).
-- Strength includes Java, Kotlin C#, SQL, MySQL, XML, Android SDK, Firebase, Figma.
+- Strength includes Java, Kotlin, Protobuf,  C#, SQL, MySQL, XML, Android SDK, Firebase, Figma.
 - Git (Bitbucket, Github, Gitlab), Jira, Teamwork, Trello, Slack, Jenkins CI/CD.
 - Agile (scrum), code review, team lead, effective on-boarding trainer for new resources.
 - Collaborate with business stakeholders to deliver high performant products with short "Time to Market" cycle.
