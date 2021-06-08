@@ -19,10 +19,10 @@
 - Swift Technology Pvt. Ltd.: Aug 2014 - Present (4 years 11 months...)
 
 ### Education
-Bachelors of Science in Information Technology (Bsc.IT)
+- Bachelors of Science in Information Technology (Bsc.IT)
 
 ### Volunteering
-Software Development: Nepal Red Cross Society (in collaboration with KOICA Nepal)
+- Software Development: Nepal Red Cross Society (in collaboration with KOICA Nepal)
 
 ### Contact/Link
-- Email [(https://github.com/dilippaudyal/Dilip/edit/main/README.md)]
+- [Email (dilip.paudyal@gmail.com)]
