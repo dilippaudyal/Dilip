@@ -18,7 +18,7 @@
 
 - E-Signature Pvt. Ltd: Mar 2015 - May 2016 (1 year 1 month)
 - Onesphere Sdn Bhd: Oct 2018 - May 2019 (7 months) -  Kuala Lumpur, Malaysia 
-- Swift Technology Pvt. Ltd: Aug 2014 - Present (4 years 11 months...)
+- Swift Technology Pvt. Ltd: Aug 2016 - Present (4 years 11 months...)
 
 ### Education
 
