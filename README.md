@@ -26,5 +26,5 @@
 
 ### Contact/Link
 - [LinkedIn](https://www.linkedin.com/in/dilip-paudyal/)
-- [Website](https://github.com/dilippaudyal/Dilip/edit/main/README.md)
-- [Whatsapp](https://github.com/dilippaudyal/Dilip/edit/main/README.md)
+- [Website](https://github.com/dilippaudyal/Dilip/blob/main/README.md)
+- [Whatsapp](https://github.com/dilippaudyal/Dilip/blob/main/README.md)
